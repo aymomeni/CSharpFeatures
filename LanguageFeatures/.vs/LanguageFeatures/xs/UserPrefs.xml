@@ -1,6 +1,11 @@
 ﻿<Properties StartupConfiguration="{9D2FB8F3-D46C-44F0-A658-8B192999D0B4}|Default">
   <MonoDevelop.Ide.ItemProperties.LanguageFeatures FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Product.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="34" Column="42" />
+      <File FileName="Models/Product.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
